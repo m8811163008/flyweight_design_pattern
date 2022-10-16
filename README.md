@@ -24,6 +24,10 @@ Hence, only a single instance of a shape
 object per type could be created and reused 
 when needed.
 
+##Screenshots
+![ScreenShot 1 shows 1000 instance](screenshots/1.png)
+![ScreenShot 2 shows 2 instance](screenshots/2.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
