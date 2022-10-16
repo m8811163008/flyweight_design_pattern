@@ -24,7 +24,8 @@ Hence, only a single instance of a shape
 object per type could be created and reused 
 when needed.
 
-##Screenshots
+## Screenshots
+
 ![ScreenShot 1 shows 1000 instance](screenshots/1.png)
 ![ScreenShot 2 shows 2 instance](screenshots/2.png)
 
